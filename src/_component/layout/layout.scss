@@ -1,0 +1,32 @@
+//the quick way to reset CSS
+html, 
+body{
+    height: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.welcome{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    background-color: $color-saffron;
+
+    h1 {
+        color: $color-white;
+        font-size: 3.5rem;
+    }
+
+    a{
+        color: $color-white;
+        text-decoration: none;
+        font-size: 1.05rem;
+    }
+}
