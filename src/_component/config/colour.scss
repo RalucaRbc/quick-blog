@@ -4,3 +4,8 @@ $color--white: #fff;
 $color--puerto-rico: #4ABDAC;
 $color--clean: #DFDCE3;
 $color--flamenco: #FF730A;
+$theme: "buttercup";
+@if ($theme=="buttercup"){
+    $color--pomegranate: #FC4A1A;
+    $color--saffron: #F7B733;
+}

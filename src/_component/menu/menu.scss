@@ -1,0 +1,31 @@
+.menu{
+    padding: 0.5rem;
+}
+
+.menu__panel{
+}
+
+.menu__title{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    background-color: $color--puerto-rico;
+    color: $color--white;
+    padding: 0.5rem 1rem;
+    font-size: 1.5rem;
+}
+
+.menu__list{
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    background-color: $color--white;
+    color: $color--flamenco;
+    //padding: 0.5rem;
+    a {
+        // border: 0.15rem solid $color--saffron;
+        // border-radius: 0.5rem;       
+        text-decoration: none;
+        color:$color--flamenco ;
+        padding: 0.5rem 1rem;
+        display: block;
+    }
+}

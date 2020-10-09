@@ -46,15 +46,23 @@ body{
         border-radius: 0.3rem;
         margin: 1rem;
         position: relative;
-        padding-right: 1.5rem ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 1.3rem ;
+
         &:hover{            
             border: 0.2rem solid $color--pomegranate;
             background-color: $color--saffron;
         }
+    }
+    
+    .continue-arrow{
+        margin: 0 0.2rem;
         &:after{
             position: absolute;
-            right: 0.5rem;
-            top:1.2rem;
+            // right: 0.3rem;
+            // top:0.75rem;
             content: ""; 
             display: block;
             width: 0px;
