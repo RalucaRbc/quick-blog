@@ -5,12 +5,7 @@ block config
         var title= "Privacy Policy"
         var description= "This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure and that we will comply fully with all applicable UK Data Protection legislation and regulations. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you visit this site."
 block content
-    .welcome
-        h1=title
-        p.welcome__description=description
-        a.scroll-down(href="#continue")
-            span Click to continue reading or scroll down   
-            span.continue-arrow
+    include ../_component/welcome/welcome
     .content
         #continue
             ol 

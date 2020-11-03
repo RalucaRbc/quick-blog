@@ -1,8 +1,23 @@
 extend _component/layout/base
 block config
     -
-        var title="Contact Quick Blog"
+        var title="Contact Information"
         var description="Contact me, the creator, Raluca Ghintuiala"
 block content
-    h1=title
-    p=description
+    .content
+        h1=title
+        p Find me on social media!
+        ul 
+            li
+                a(title="Click to go on Facebook!") Facebook
+            li
+                a(title="Click to go on LinkedIn!") LinkedIn
+            li 
+                a(title="Click to go on my personal website!") Personal website
+        figure.image-container
+            img.image(src="/asset/image/tips.jpg")
+            figcaption.image-caption
+                strong Note:
+                span Stay focused!
+
+
