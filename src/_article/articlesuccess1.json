@@ -1,0 +1,64 @@
+{
+  "config": {
+    "//": "set publish to false to skip this in production",
+    "publish": true
+  },
+  "head": {
+    "title": "How To Be Successful In Life: 3 Life-Changing Tips",
+    "description": "What is success to you? How to be successful in life?"
+  },
+  "body": [
+    {
+      "type": "blockquote",
+      "source": "Leon Ho",
+      "link": "https://www.lifehack.org/articles/lifestyle/how-to-be-successful-in-life.html",
+      "data": [
+        "To some, when they think of success, they imagine wealth; others want power; some just want to make a positive impact on the world.",
+        "All of these are perfectly valid, indeed success is a concept that means different things to different people. Though no matter what success is to you, it almost certainly isn’t something will come easily."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "1. Think Big"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Oftentimes, people often decided to put their dreams aside for something more “realistic”. To give up their dream for something easier. This quote teaches us the danger of such a point of view. Instead be ambitious."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "2. Find What You Love to Do and Do It"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "This is a good quote to remember and think about when you’re at work.",
+        "Imagine being as successful as possible in your current job. Ultimately you’ll probably find yourself working extremely hard and this it will take up much of your time.",
+        "If it’s a job you hate, then being successful at it might only mean filling your life with something you hate to do. What’s the sense in this?"
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "3. Learn How to Balance Life"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "All too often, people think that to be successful, they need to make the object of their success their life.",
+        "If a person thinks their job will lead them to success, then they may spend countless hours per day, and well into the evening working hard.",
+        "However this comes at the cost of rest, your health and having an enjoyable life. Ultimately they may burn out and cease to be successful at their job anyway.",
+        "If success comes from having a strong social life and a good group of friends, their job may suffer; meaning that they may lose their job, and then be unable to afford going out with friends."
+      ]
+    }
+    ,{
+      "type": "image",
+      "data": [
+        "/asset/image/success.png"
+      ]
+    }
+  ]
+}
+
+

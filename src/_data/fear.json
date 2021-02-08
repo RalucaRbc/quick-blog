@@ -1,27 +1,17 @@
 [
   {
-  "title": "First article about fear",
+  "title": "The Power of Overcoming Fear",
   "link": "/article/articlefear1",
-  "description": "descriptionfear1"
+  "description": "Everything you need to know about fear and how to overcome this feeling"
 },
   {
-  "title": "Second article about fear",
+  "title": "What Is Fear?",
   "link": "/article/articlefear2",
-  "description": "descriptionfear2"
+  "description": " "
 },
   {
-  "title": "Third article about fear",
-  "link": "/article/articlefear3",
-  "description": "descriptionfear3"
-},
-  {
-  "title": "Fourth article about fear",
-  "link": "/article/articlefear4",
-  "description": "descriptionfear4"
-},
-  {
-  "title": "Fifth article about fear",
-  "link": "/article/articlefear5",
-  "description": "descriptionfear5"
+  "title": "Why Do People Fascinate Success and Fear Failures?",
+  "link": "/article/articlesuccess4",
+  "description": "Aren’t we all fascinated with success and frightened of failures?"
 }
 ]

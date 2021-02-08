@@ -1,0 +1,72 @@
+{
+  "config": {
+    "//": "set publish to false to skip this in production",
+    "publish": true
+  },
+  "head": {
+    "title": "How To Achieve Success: Learn from the Failure in Life",
+    "description": "It's how you deal with failure that determines how you achieve success."
+  },
+  "body": [
+    {
+      "type": "blockquote",
+      "source": "J.K. Rowling",
+      "link": "https://www.beaninspirer.com/how-to-achieve-success-learn-from-the-failure-in-life/",
+      "data": [
+        "“It is impossible to live without failing at something, unless you live so cautiously that you might as well have not lived at all, in which case you have failed by default.”"
+      ]
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Every single person wants to know how to achieve success. Every single person has a dream and most have a plan to make it a reality. But, few make it to the end. For most, the journey ends at the first stop, first failure in life. Most, while trying to figure out how to achieve success, forget that failure will hit much before success and it’ll hurt. But what matters is, if we get up again or not.",
+        "So, here’s a step guide on how to achieve success and learn from failure in life."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "Take a Break"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "It hurts when things don’t go as planned. It’s too much to take in when you realise that all your efforts were in vain. At such moments, don’t bury yourself under the weight of expectations and thought of future. Accept that you failed and know that it’s okay. Be kind to yourself and take a break.",
+        "Do these things to relax your mind a little:"
+      ]
+    },
+    {
+      "type": "ul",
+      "data": [
+        "Meditate – It’s benefits don’t need to be mentioned.",
+        "Watch feel-good movies – My personal favourites include Forrest Gump, Schindler’s List, A Beautiful Mind and Goodwill Hunting.",
+        "Read – It takes your mind off things.",
+        "Take a small vacation."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "Acknowledge Your Failure in Life"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "How is one supposed to learn from mistake if one doesn’t even acknowledge it? Accepting the mistake and acknowledging failure is most necessary.",
+        "To learn how to achieve success, one must first learn to embrace failure in life. It does not do to cling to your mistakes just because you spent a lot of time making it."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "How to Achieve Success: Investigate the Reason of Failure"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Next most important thing to overcome failure in life and learn how to achieve success is figuring out where you went wrong.",
+        "My mother always tells me this story about the time she cooked Curry (dish) for the first time. My Grandma had given her lessons and now was the time for test. The curry did not turn out very fine. My Grandma asked my mother to taste it. My mother says that if she hadn’t tasted the curry she would not have understood where she went wrong so intricately.",
+        "You can’t possibly know how to achieve success if you don’t learn from your failure in life. It is very important to analyse what went wrong to make sure the same mistake isn’t repeated again."
+      ]
+    }
+  ]
+}
+
+

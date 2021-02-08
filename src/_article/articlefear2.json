@@ -1,0 +1,56 @@
+{
+  "config": {
+    "//": "set publish to false to skip this in production",
+    "publish": true
+  },
+  "head": {
+    "title": "What Is Fear?",
+    "description": " "
+  },
+  "body": [
+      {
+      "type": "h2",
+      "data": "What Is Fear?"   
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Fear is a natural, powerful, and primitive human emotion. It involves a universal biochemical response as well as a high individual emotional response. Fear alerts us to the presence of danger or the threat of harm, whether that danger is physical or psychological.",
+        "Sometimes fear stems from real threats, but it can also originate from imagined dangers. Fear can also be a symptom of some mental health conditions including panic disorder, social anxiety disorder, phobias, and post-traumatic stress disorder (PTSD).",
+        "Fear is composed of two primary reactions to some type of perceived threat: biochemical and emotional."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "Biochemical Reaction"
+    },
+    {
+      "type": "p",
+      "data": [
+        "Fear is a natural emotion and a survival mechanism. When we confront a perceived threat, our bodies respond in specific ways. Physical reactions to fear include sweating, increased heart rate, and high adrenaline levels that make us extremely alert.",
+        "This physical response is also known as the “fight or flight” response, with which your body prepares itself to either enter combat or run away. This biochemical reaction is likely an evolutionary development. It's an automatic response that is crucial to our survival."
+      ]
+    }
+    ,{
+      "type": "h2",
+      "data": "Emotional Response"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "The emotional response to fear, on the other hand, is highly personalized. Because fear involves some of the same chemical reactions in our brains that positive emotions like happiness and excitement do, feeling fear under certain circumstances can be seen as fun, like when you watch scary movies.",
+        "Some people are adrenaline seekers, thriving on extreme sports and other fear-inducing thrill situations. Others have a negative reaction to the feeling of fear, avoiding fear-inducing situations at all costs."
+      ]
+    },
+    {
+      "type": "blockquote",
+      "source": "Discover more here!",
+      "link": "https://www.verywellmind.com/the-psychology-of-fear-2671696",
+      "data": [
+        "Although the physical reaction is the same, the experience of fear may be perceived as either positive or negative, depending on the person."
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,27 @@
+{
+  "config": {
+    "//": "set publish to false to skip this in production",
+    "publish": true
+  },
+  "head": {
+    "title": "Success That Lasts",
+    "description": "In this article, we’ll introduce a practical framework that will help you see success in these same terms."
+  },
+  "body": [
+    {
+      "type": "h2",
+      "data": "What Is Enduring Success?"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Our research took a fresh look at the assumptions behind success. We were interested in real, enduring success—where getting what you want has rewards that are sustainable for you and those you care about. This type of attainment delivers a sense of legitimacy and importance; its satisfactions endure far beyond the momentary rewards of a bonus or a new position. Lasting success is emotionally renewing, not anxiety provoking.",
+        "Unlike an equation for a successful market strategy, no one person or company can fully embody lasting success for others. Everyone (and every business) has a unique vision of real success, and that notion changes over time. A family-oriented person would hardly call the absentee life of a top executive a success but might find travel and adventure just the ticket after the kids grow up. A born investment banker would hardly regard mixing cement as a successful career, whereas a construction worker who just completed an extraordinary bridge might point to the structure with pride for the rest of his or her life. No one, however, has unreserved success, not even the most obvious winner. Recognizing how important it is for each person to understand and develop his or her unique definition of success over time, we chose not to report on one or two well-known examples of success as the perfect model to follow."
+      ]
+    }
+    ,{
+      "type": "image",
+      "data": ["/asset/image/articlesucces2.jpg"]
+    }
+  ]
+}

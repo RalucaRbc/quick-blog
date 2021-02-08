@@ -1,0 +1,41 @@
+extend ../_component/layout/base
+block config
+  -
+    var title = template.head.title || "didnt work"
+    var description= template.head.description || "desc not available"
+block content
+  .content
+    each piece in template.body
+      if piece.type == "blockquote"
+        blockquote.blockquote
+          .blockquote__body 
+            each paragraph in piece.data 
+              small=paragraph
+          .blockquote__footer
+            a(href=piece.link, target="_blank")=piece.source
+      if piece.type == "h2"
+        h2=piece.data
+      if piece.type == "p"
+        each par in piece.data
+          p=par
+      if piece.type == "p-safe"
+        each par in piece.data
+          b=par
+      if piece.type=="image"
+        each image in piece.data 
+          pre       
+          figure.image-container
+                img.image(src=image)
+          pre       
+      if piece.type=="animation"
+        each animation in piece.data
+          figure.video-container
+                video.animation(src=animation, autoplay, width="500",height="500")
+      if piece.type=="ul"
+        ul
+          each item in piece.data
+            li=item
+
+    //- pre=JSON.stringify(template.head, null, 12)
+    //- pre=JSON.stringify(template.body, null, 12)
+

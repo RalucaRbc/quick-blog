@@ -1,0 +1,83 @@
+{
+  "config": {
+    "//": "set publish to false to skip this in production",
+    "publish": true
+  },
+  "head": {
+    "title": "Why Do People Fascinate Success and Fear Failures",
+    "description": "Aren’t we all fascinated with success and frightened of failures?"
+  },
+  "body": [
+    {
+      "type": "h2",
+      "data": "Do You Fear Failures?"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Aren’t we all fascinated with success and frightened of failures?", 
+        "Yes. I have seen people who are stuck in their life, unable to do what they really wish. Most people give up on their dreams, ambitions, and goals in fear of failing.",
+        "Do you think it is so easy to be successful? Success does not come from comforts. You have to take risks and sometimes fail many times to become successful.",
+        "The path to success varies greatly for different individuals. Some people have to fall many times to gain success in their life. While some others easily succeed without going through failures.",
+        "The thing is that none of our life on this earth is similar to any extent. We don’t know what is happening in any of the most successful person’s life. How we interpret their life can go wrong because we are just seeing a version of their life.",
+        "We barely know anyone’s path to success. Maybe the one you admire for being the most successful person might have had enough failures in their life.",
+        "Everyone’s story is different. And you can’t definitely achieve anything if your fear of failure is bigger than your dreams."
+      ]
+    },
+    {
+      "type": "h2",
+      "data": "Is Failure A Better Teacher than Success?"
+    }
+    ,{
+      "type": "p",
+      "data": [
+        "Don’t you think you learn quite much in each of your failures? Of course, yes."
+      ]
+    }
+    ,{
+      "type": "p-safe",
+      "data": [
+        "Here are things what failure does to you:"
+      ]
+    }
+    ,{
+      "type": "ul",
+      "data":[
+        "Failure makes you rethink.",
+        "It makes you understand whether you have taken the right direction.",
+        "Failure opens more opportunities.",
+        "It makes you re-evaluate yourself and your actions.",
+        "Failure makes you work harder and smarter.",
+        "Failure paves the path to come back with better and strong reasoning skills."
+      ]
+    },
+    {
+      "type": "p",
+      "data": ["Failure is definitely a good teacher. There is no need to fear failures. It only increases your experience and knowledge."]
+    },
+    {
+      "type": "h2",
+      "data": "How To Bounce Back to the Path to Success from a Failure?"
+    },
+    {
+      "type": "p",
+      "data": [
+        "Failure is inevitable. You can’t escape from failures. Nobody in this world is completely immune to failures. What really matters is how easily you get back to the path to success.",
+      "Here are some tips for getting back to the path to success from failure:"
+      ]
+    },
+    {
+      "type": "ul",
+      "data":[
+        "Analyze your situation.",
+        "Accept your failure.",
+        "Find out what went wrong.",
+        "Learn from mistakes.",
+        "Motivate yourself.",
+        "Get inspired and seek support from people you trust.",
+        "Don’t get stuck in life. Get back to your work.",
+        "Change plans if required and move ahead."
+      ]
+    }
+  ]
+}
